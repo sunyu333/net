@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589963020583.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "512865622",
+    "id" : "65715AE5",
+    "lastKnownWriteTime" : 1586955287,
+    "last_content_update" : 1586955287,
+    "path" : "C:/Users/dell/.ssh/id_rsa",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "36,54",
+        "scrollLine" : "26"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
